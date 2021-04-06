@@ -27,5 +27,6 @@ in your hands, enter the value in the function and the reading value
 will be the presented conductivity, the same can be done in the micro
 controller.
 
-We have: Reading &lt;200us / cm3 = drinking water Reading&gt; 200us /
-cm3 = non-drinking water
+We have: 
+Reading &lt;200us / cm3 = drinking water 
+Reading&gt; 200us /cm3 = non-drinking water
