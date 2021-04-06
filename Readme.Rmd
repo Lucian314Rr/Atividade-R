@@ -3,9 +3,9 @@ title: "Analog Reading CM230"
 author: "Lucian Pierre"
 date: "06/04/2021"
 output: 
-github_document:
-  fig_width: 9
-  fig_heigth: 5
+  github_document:
+   fig_width: 9
+   fig_heigth: 5
 
 ---
 
