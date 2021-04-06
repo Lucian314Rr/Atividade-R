@@ -27,12 +27,12 @@ There are conductivimeters that use digital measures and others that use analog 
 
 
 
-```{r message = FALSE, warning = FALSE}
+```{r message=FALSE, warning=FALSE}
 library(CondutivimetroAnalogico)
 
 ```
 
-```{r, eval = FALSE}
+```{r eval=, message=FALSE, warning=FALSE}
 CondutivimetroAnalogico::Leitura(a)
 ```
 
