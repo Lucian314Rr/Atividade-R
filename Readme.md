@@ -2,7 +2,7 @@ Analog Reading CM230
 ================
 Lucian Pierre
 06/04/2021
-================
+
 
 There are conductivimeters that use digital measures and others that use
 analog measures for the calculation of water conductivity, the digital
@@ -19,7 +19,7 @@ given in us / cm3 microsimens per cubic centimeter, the input must be
 entered in mv, milli volts, it is also necessary to calibrate the
 conductivity meter to make its use feasible.
 
-##Directions for use:
+## Directions for use:
 
 Using a multimeter or the analog pin of the microcontroller, check the
 voltage that the analog output of the conductivimeter presents, with it
